@@ -1213,19 +1213,19 @@ Example markup:
 
 @-webkit-keyframes openSpace {
   to {
-    max-height: 50px;
+    max-height: 100%;
   }
 }
 
 @-o-keyframes openSpace {
   to {
-    max-height: 50px;
+    max-height: 100%;
   }
 }
 
 @keyframes openSpace {
   to {
-    max-height: 50px;
+    max-height: 100%;
   }
 }
 
